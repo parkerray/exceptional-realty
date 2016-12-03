@@ -1,13 +1,25 @@
-# HTML5 Video Embed Code-Along
+# CSS Styling Code Along
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/ymUxDt_mOxU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+## Objectives
 
-<p><a href="https://www.youtube.com/watch?v=ymUxDt_mOxU">HTML5 Video Embed Code-Along</a></p>
+1. Review linking an external CSS file.
+2. Review writing selectors.
+3. Styling text content.
 
-Fork and clone this repo (or use 'learn open') to download all of the starter code for the code along.
+## Introduction
 
-[Click here to get the MP4 video linked to in the exercise](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.mp4)
+In this code along exercise we will be adding style to our pages by linking an external CSS file.
 
-[Click here to get the OGV video linked to in the exercise](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.ogv)
+## Steps
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html5-video-embed-code-along' title='HTML5 Video Embed Code-Along'>HTML5 Video Embed Code-Along</a> on Learn.co and start learning to code for free.</p>
+1. Fork this repository.
+2. Clone your fork.
+3. cd into the folder for this lab.
+4. Code along with the included video below. While coding work in your cloned copy of this lab! The instructors foldername will be different than yours.
+5. After the video: stage, commit, and push up your changes.
+6. Then make a pull request.
+
+<iframe width="100%" height="720" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
+
